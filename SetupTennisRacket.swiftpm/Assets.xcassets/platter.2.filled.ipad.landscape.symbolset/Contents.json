@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "symbols" : [
+    {
+      "filename" : "platter.2.filled.ipad.landscape.svg",
+      "idiom" : "universal"
+    }
+  ]
+}
